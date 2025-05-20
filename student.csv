@@ -1,0 +1,6 @@
+StudentId,Name,Age,Gender,Program,Registration date,Status
+1,Rahim,32,male,Physics,2020-09-19,A
+2,Karim,52,male,chemistry,2000-09-19,D
+3,Jalila,34,female,Biology,2019-09-19,D
+4,farida,64,female,Math,1991-09-19,D
+5,Dalil,NAN,male,Art,2025-09-19,A
